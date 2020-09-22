@@ -1,2 +1,2 @@
 # Coding-Challenges
-Credits : codingtrain
+Credits : codingtrain  (codingtrain.com)

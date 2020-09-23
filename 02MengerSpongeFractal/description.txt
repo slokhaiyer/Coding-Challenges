@@ -1,0 +1,4 @@
+The MegaMenger may be the largest fractal ever built, made out of over a million business cards and encompassing the entire Earth. 
+A Menger Sponge is a three-dimensional fractal, which can be made by taking a cube and cutting out a square section through the centre in each of the three directions; then each of the resulting smaller cubes is cut out in the same way, and so on until you've removed infinitely many pieces.
+So each Menger Sponge is made from twenty identical-but-smaller Menger Sponges. 
+This results in an object which has zero volume but infinite surface area!

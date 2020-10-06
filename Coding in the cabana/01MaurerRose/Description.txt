@@ -1,0 +1,1 @@
+A Maurer rose is a plot of a "walk" along an n- (or 2n-) leafed rose in steps of a fixed number d degrees, including all cosets.
